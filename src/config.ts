@@ -1,12 +1,12 @@
 export default {
   // 填入你的OPENAI_API_KEY
-  OPENAI_API_KEY: '',
+  OPENAI_API_KEY: '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',
   // 设置获取消息的重试次数
   retryTimes: 3,
   // 在群组中设置唤醒微信机器人的关键词
-  groupKey: '',
+  groupKey: 'gptbot',
   // 在私聊中设置唤醒微信机器人的关键词
-  privateKey: '',
+  privateKey: 'gpt',
   // 重置上下文的关键词，如可设置为reset
   resetKey: 'reset',
   // 开启会后收到ChatGPT的自动回复
