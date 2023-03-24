@@ -9,6 +9,25 @@
 > Get a WeChat robot 🤖 based on ChatGPT in a few step.
 > [中文文档](README_ZH.md) | English
 
+
+## ⚠️ Update March 2, 2023
+
+工作原因，暂不维护了，官方推荐项目，有条件的朋友自己集成：
+
+https://github.com/transitive-bullshit/chatgpt-api
+
+https://github.com/PawanOsman/ChatGPT-Official
+
+https://github.com/acheong08/ChatGPT
+
+https://github.com/waylaidwanderer/node-chatgpt-api
+
+https://github.com/acheong08/EdgeGPT
+
+百花齐放了属于是🐶
+OpenAI也开始卖model了
+> the default model is gpt-3.5-turbo which is paid ($0.002/1K Tokens or $1/500K Tokens) 
+
 ## ⚠️ Update February 9, 2023
 
 多个用户开始反馈微信暂时封禁, 理由是「使用第三方软件, 外挂, 插件等非官方工具或其他违规行为」，原因待排查，请各位朋友谨慎使用。

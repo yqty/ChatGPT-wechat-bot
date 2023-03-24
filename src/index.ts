@@ -1,3 +1,4 @@
+import 'isomorphic-fetch';
 import { WechatyBuilder } from 'wechaty';
 import qrcodeTerminal from 'qrcode-terminal';
 import config from './config.js';
@@ -110,7 +111,7 @@ async function initProject() {
 
     bot
       .start()
-      .then(() => console.log('Start to log in wechat...'))
+      .then(() => console.log('Start to log in WeChat...'))
       .catch((e) => console.error(e));
   } catch (error) {
     console.log('init error: ', error);
